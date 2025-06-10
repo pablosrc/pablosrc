@@ -1,22 +1,7 @@
-[
-  {
-    "id": "discord",
-    "url": "https://discord.gg/KKgNGxzS7Q"
-  },
-  {
-    "id": "curseforge",
-    "url": "https://www.curseforge.com/members/pabloo_pp/projects"
-  },
-  {
-    "id": "planetminecraft",
-    "url": "https://www.planetminecraft.com/member/pablomc/"
-  },
-  {
-    "id": "steam",
-    "url": "https://steamcommunity.com/id/erpablenchu/"
-  },
-  {
-    "id": "modrinth",
-    "url": "https://modrinth.com/user/pablomcprojects"
-  }
-]
+{
+  "discord": "https://discord.gg/KKgNGxzS7Q",
+  "curseforge": "https://www.curseforge.com/members/pabloo_pp/projects",
+  "planetminecraft": "https://www.planetminecraft.com/member/pablomc/",
+  "steam": "https://steamcommunity.com/id/erpablenchu/",
+  "modrinth": "https://modrinth.com/user/pablomcprojects"
+}
